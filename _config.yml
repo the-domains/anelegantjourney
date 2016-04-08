@@ -1,0 +1,28 @@
+name: anelegantjourney
+favicon: null
+layout_spectrum: 0.07092495216056705
+typography_spectrum: 0.008784325793385506
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2112118995282799
+  lightness: 0.882517569931224
+  saturation: 0.6651591591071337
+  rhythmicContrast: 0.8228986305184662
+purpose: []
